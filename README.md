@@ -1,2 +1,2 @@
-# TanaSecuLines
-Secured Connections Transfer Lines
+# JavaC++
+Connecting Java and C++ made Simple
